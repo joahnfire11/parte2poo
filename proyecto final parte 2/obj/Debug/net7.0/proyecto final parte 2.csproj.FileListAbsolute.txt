@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\bin\Debug\net7.0\proyecto final parte 2.exe
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\bin\Debug\net7.0\proyecto final parte 2.deps.json
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\bin\Debug\net7.0\proyecto final parte 2.runtimeconfig.json
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\bin\Debug\net7.0\proyecto final parte 2.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\bin\Debug\net7.0\proyecto final parte 2.pdb
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\obj\Debug\net7.0\proyecto final parte 2.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\obj\Debug\net7.0\proyecto final parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\obj\Debug\net7.0\proyecto final parte 2.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\obj\Debug\net7.0\proyecto final parte 2.AssemblyInfo.cs
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\obj\Debug\net7.0\proyecto final parte 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\obj\Debug\net7.0\proyecto final parte 2.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\obj\Debug\net7.0\refint\proyecto final parte 2.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\obj\Debug\net7.0\proyecto final parte 2.pdb
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\obj\Debug\net7.0\proyecto final parte 2.genruntimeconfig.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final parte 2\obj\Debug\net7.0\ref\proyecto final parte 2.dll
